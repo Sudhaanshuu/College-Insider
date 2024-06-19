@@ -1,4 +1,5 @@
 # College Insider Web Portal
+link - https://college-insider.netlify.app/
 
 ## C.V. RAMAN GLOBAL UNIVERSITY
 ### BHUBANESWAR, ODISHA-752054
